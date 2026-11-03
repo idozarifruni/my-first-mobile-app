@@ -1,3 +1,3 @@
 # My First Mobile App
 Purpose: Help students plan their day
-Updated from GitHub
+Add planning status
